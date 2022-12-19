@@ -1,0 +1,45 @@
+C:\Users\user\Desktop\System.Examen\System.Examen\obj\Debug\System.Examen.csprojAssemblyReference.cache
+C:\Users\user\Desktop\System.Examen\System.Examen\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\System.Examen\System.Examen\obj\Debug\App.g.cs
+C:\Users\user\Desktop\System.Examen\System.Examen\obj\Debug\System.Examen_MarkupCompile.cache
+C:\Users\user\Desktop\System.Examen\System.Examen\obj\Debug\System.Examen_MarkupCompile.lref
+C:\Users\user\Desktop\System.Examen\System.Examen\bin\Debug\System.Examen.exe.config
+C:\Users\user\Desktop\System.Examen\System.Examen\bin\Debug\System.Examen.exe
+C:\Users\user\Desktop\System.Examen\System.Examen\bin\Debug\System.Examen.pdb
+C:\Users\user\Desktop\System.Examen\System.Examen\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\System.Examen\System.Examen\obj\Debug\System.Examen.g.resources
+C:\Users\user\Desktop\System.Examen\System.Examen\obj\Debug\System.Examen.Properties.Resources.resources
+C:\Users\user\Desktop\System.Examen\System.Examen\obj\Debug\System.Examen.csproj.GenerateResource.cache
+C:\Users\user\Desktop\System.Examen\System.Examen\obj\Debug\System.Examen.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\System.Examen\System.Examen\obj\Debug\System.Examen.exe
+C:\Users\user\Desktop\System.Examen\System.Examen\obj\Debug\System.Examen.pdb
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Проекти з програмування\System.Examen\System.Examen\bin\Debug\System.Examen.exe.config
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Проекти з програмування\System.Examen\System.Examen\bin\Debug\System.Examen.exe
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Проекти з програмування\System.Examen\System.Examen\bin\Debug\System.Examen.pdb
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Проекти з програмування\System.Examen\System.Examen\obj\Debug\System.Examen.csproj.AssemblyReference.cache
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Проекти з програмування\System.Examen\System.Examen\obj\Debug\MainWindow.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Проекти з програмування\System.Examen\System.Examen\obj\Debug\App.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Проекти з програмування\System.Examen\System.Examen\obj\Debug\System.Examen_MarkupCompile.cache
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Проекти з програмування\System.Examen\System.Examen\obj\Debug\System.Examen_MarkupCompile.lref
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Проекти з програмування\System.Examen\System.Examen\obj\Debug\MainWindow.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Проекти з програмування\System.Examen\System.Examen\obj\Debug\System.Examen.g.resources
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Проекти з програмування\System.Examen\System.Examen\obj\Debug\System.Examen.Properties.Resources.resources
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Проекти з програмування\System.Examen\System.Examen\obj\Debug\System.Examen.csproj.GenerateResource.cache
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Проекти з програмування\System.Examen\System.Examen\obj\Debug\System.Examen.csproj.CoreCompileInputs.cache
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Проекти з програмування\System.Examen\System.Examen\obj\Debug\System.Examen.exe
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Проекти з програмування\System.Examen\System.Examen\obj\Debug\System.Examen.pdb
+C:\Users\ursul\OneDrive\Робочий стіл\Projects\Асинхронне затовнення (System.Examen)\System.Examen\bin\Debug\System.Examen.exe.config
+C:\Users\ursul\OneDrive\Робочий стіл\Projects\Асинхронне затовнення (System.Examen)\System.Examen\bin\Debug\System.Examen.exe
+C:\Users\ursul\OneDrive\Робочий стіл\Projects\Асинхронне затовнення (System.Examen)\System.Examen\bin\Debug\System.Examen.pdb
+C:\Users\ursul\OneDrive\Робочий стіл\Projects\Асинхронне затовнення (System.Examen)\System.Examen\obj\Debug\System.Examen.csproj.AssemblyReference.cache
+C:\Users\ursul\OneDrive\Робочий стіл\Projects\Асинхронне затовнення (System.Examen)\System.Examen\obj\Debug\MainWindow.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Projects\Асинхронне затовнення (System.Examen)\System.Examen\obj\Debug\App.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Projects\Асинхронне затовнення (System.Examen)\System.Examen\obj\Debug\System.Examen_MarkupCompile.cache
+C:\Users\ursul\OneDrive\Робочий стіл\Projects\Асинхронне затовнення (System.Examen)\System.Examen\obj\Debug\System.Examen_MarkupCompile.lref
+C:\Users\ursul\OneDrive\Робочий стіл\Projects\Асинхронне затовнення (System.Examen)\System.Examen\obj\Debug\MainWindow.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Projects\Асинхронне затовнення (System.Examen)\System.Examen\obj\Debug\System.Examen.g.resources
+C:\Users\ursul\OneDrive\Робочий стіл\Projects\Асинхронне затовнення (System.Examen)\System.Examen\obj\Debug\System.Examen.Properties.Resources.resources
+C:\Users\ursul\OneDrive\Робочий стіл\Projects\Асинхронне затовнення (System.Examen)\System.Examen\obj\Debug\System.Examen.csproj.GenerateResource.cache
+C:\Users\ursul\OneDrive\Робочий стіл\Projects\Асинхронне затовнення (System.Examen)\System.Examen\obj\Debug\System.Examen.csproj.CoreCompileInputs.cache
+C:\Users\ursul\OneDrive\Робочий стіл\Projects\Асинхронне затовнення (System.Examen)\System.Examen\obj\Debug\System.Examen.exe
+C:\Users\ursul\OneDrive\Робочий стіл\Projects\Асинхронне затовнення (System.Examen)\System.Examen\obj\Debug\System.Examen.pdb
